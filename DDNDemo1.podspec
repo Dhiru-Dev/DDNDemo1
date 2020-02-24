@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DDNDemo1'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'AThis is My Seconf Testing app  DDNDemo1.'
 
 # This description is used to generate tags and improve search results.
