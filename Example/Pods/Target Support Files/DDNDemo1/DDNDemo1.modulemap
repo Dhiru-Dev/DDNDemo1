@@ -1,0 +1,6 @@
+framework module DDNDemo1 {
+  umbrella header "DDNDemo1-umbrella.h"
+
+  export *
+  module * { export * }
+}

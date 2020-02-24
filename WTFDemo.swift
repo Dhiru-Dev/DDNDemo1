@@ -6,3 +6,23 @@
 //
 
 import Foundation
+
+public class WTFDemo
+{
+    public init()
+    {
+        
+    }
+    
+    public class func testing()
+    {
+        print("Testing static Function")
+    }
+    
+    public func testingInstance()
+    {
+        print("Testing Instance Function ")
+    }
+    
+    
+}

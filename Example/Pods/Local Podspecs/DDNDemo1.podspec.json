@@ -1,0 +1,22 @@
+{
+  "name": "DDNDemo1",
+  "version": "0.1.0",
+  "summary": "A short description of DDNDemo1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Dhiru-Dev/DDNDemo1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dhiru-Dev": "dhiru.ard@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Dhiru-Dev/DDNDemo1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDNDemo1/Classes/**/*"
+}
